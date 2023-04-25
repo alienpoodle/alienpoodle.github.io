@@ -1,8 +1,8 @@
 [
     {
-		"Name": "Pancake",
-		"Ingredients": " 1 cup all-purpose flour,  tablespoons sugar, 2 teaspoons baking powder",
-		"Instructions": "In a small bowl, whisk together flour, sugar, baking powder, and salt; set aside. In a medium bowl, whisk together milk, butter (or oil), and egg. Add dry ingredients to milk mixture; whisk until just moistened (do not overmix; a few small lumps are fine)."
+		"name": "Pancake",
+		"ingredients": " 1 cup all-purpose flour,  tablespoons sugar, 2 teaspoons baking powder",
+		"instructions": "In a small bowl, whisk together flour, sugar, baking powder, and salt; set aside. In a medium bowl, whisk together milk, butter (or oil), and egg. Add dry ingredients to milk mixture; whisk until just moistened (do not overmix; a few small lumps are fine)."
 		
 	}
 ]
