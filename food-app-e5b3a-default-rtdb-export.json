@@ -1,9 +1,18 @@
 [
-    {
-		"name": "Pancake",
-		"ingredients": "1 cup all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, ½ teaspoon salt, 1 cup milk, 2 tablespoons unsalted butter (melted), or vegetable oil, 1 large egg, 1 tablespoon vegetable oil",
-		"instructions": "In a small bowl, whisk together flour, sugar, baking powder, and salt; set aside. In a medium bowl, whisk together milk, butter (or oil), and egg. Add dry ingredients to milk mixture; whisk until just moistened (do not overmix; a few small lumps are fine).",
-	    	"image": "https://images.unsplash.com/photo-1600326145552-327f74b9c189"
-		
-	}
+  {
+    "name": "Pancake",
+    "ingredients": "1 cup all-purpose flour, 2 tablespoons sugar, 2 teaspoons baking powder, ½ teaspoon salt, 1 cup milk, 2 tablespoons unsalted butter-melted, or vegetable oil, 1 large egg, 1 tablespoon vegetable oil",
+    "instructions": "In a small bowl, whisk together flour, sugar, baking powder, and salt; set aside. In a medium bowl, whisk together milk, butter (or oil), and egg. Add dry ingredients to milk mixture; whisk until just moistened (do not overmix; a few small lumps are fine). Heat a large skillet (nonstick or cast-iron) or griddle over medium. Fold a sheet of paper towel in half, and moisten with oil; carefully rub skillet with oiled paper towel.... ",
+    "image": "https://images.unsplash.com/photo-1600326145552-327f74b9c189"
+    
+  },
+
+  {
+    "name": "Omelet",
+    "ingredients": "6 large eggs, 6 slices bacon, 2 tablespoons butter, 4 tablespoons chopped onion, 4 Spanish peppers, chopped, 1 large raw tomato, diced,  1 teaspoon salt, Dash of ground black pepper.",
+    "instructions": "In a small bowl, whisk together flour, sugar, baking powder, and salt; set aside. In a medium bowl, whisk together milk, butter (or oil), and egg. Add dry ingredients to milk mixture; whisk until just moistened (do not overmix; a few small lumps are fine). Heat a large skillet (nonstick or cast-iron) or griddle over medium....",
+    "image": "https://images.unsplash.com/photo-1600326145552-327f74b9c189"
+    
+  }
+
 ]
