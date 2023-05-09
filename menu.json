@@ -3,24 +3,28 @@
   {
     "name": "Pancake",
     "category": "main course",
+    "extra":["cheese","honey"],
     "cost": 25.45,
     "image": "https://images.unsplash.com/photo-1600326145552-327f74b9c189" 
   },
   {
     "name": "Italian Sausage Tortellini",
     "category": "main course",
+    "extra":["cheese","honey"],
     "cost": 25.25,
     "image": "https://images.unsplash.com/photo-1600326145552-327f74b9c189" 
   },
   {
     "name": "Summer Berry and Coconut Tart",
     "category": "Dessert",
+    "extra":["cheese","honey"],
     "cost": 25.25,
     "image": "https://images.unsplash.com/photo-1600326145552-327f74b9c189" 
   },
   {
     "name": "Avocado & Mango Salsa",
     "category": "Starter",
+    "extra":["cheese","honey"],
     "cost": 5.00,
     "image": "https://images.unsplash.com/photo-1600326145552-327f74b9c189" 
   }
