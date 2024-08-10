@@ -131,6 +131,7 @@
 .popup__photo img {
   width: auto;
   height: 100%;
+  left: 50%;
   position: relative;
   transform: translateX(-50%);
  
