@@ -131,6 +131,7 @@
 .popup__photo img {
   width: auto;
   height: 100%;
+  transform: translateX(-50%);
   object-position: center;
 }
 .popup__text {
