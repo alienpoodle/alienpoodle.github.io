@@ -124,23 +124,20 @@
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
-  width: 40%;
+  width: 60%;
   height: 100%;
   overflow: hidden;
 }
 .popup__photo img {
   width: auto;
   height: 100%;
-  left: 50%;
-  position: relative;
-  transform: translateX(-50%);
  
 }
 .popup__text {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 60%;
+  width: 40%;
   height: 100%;
   padding: 4rem;
 }
