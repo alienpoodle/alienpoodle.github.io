@@ -131,6 +131,7 @@
 .popup__photo img {
   width: auto;
   height: 100%;
+  object-position: center;
 }
 .popup__text {
   display: flex;
