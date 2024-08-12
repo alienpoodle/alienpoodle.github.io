@@ -114,8 +114,8 @@
   align-items: center;
   max-width: 800px;
   max-height: 600px;
-  width: 40%;
-  height: 80%;
+ /** width: 40%;
+  height: 80%; **/
   background-color: #fff;
   transform: rotate(32deg);
   transition: 0.64s ease-in-out;
@@ -128,11 +128,7 @@
   height: 100%;
   overflow: hidden;
 }
-.popup__photo img {
-  width: auto;
-  height: 100%;
- 
-}
+
 .popup__text {
   display: flex;
   flex-direction: column;
